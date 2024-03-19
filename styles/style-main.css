@@ -239,13 +239,13 @@ img {
 /* Twins section */
 
 .sidebar {
-	background: #FF7F66;
+	background: #e6ade0;
 	// background: hsl(0, 0%, 90%);
 }
 
 .twin {
 	padding: 2em;
-	background: #FF7F66;
+	// background: #FF7F66;
 }
 
 /* Colophon section */
@@ -273,6 +273,11 @@ body {
 	background-color: #85af95;
 }
 
+.side-bar-img {
+	border: solid #9e4242;
+    box-shadow: 8px 5px 5px #555;
+	border-radius: 15px;
+}
 /*--------------------------------------------------------------
 Use flex to create a three-bucket layout
 --------------------------------------------------------------*/
